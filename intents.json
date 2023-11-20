@@ -1,0 +1,40 @@
+{
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": [
+                "Hola",
+                "Buenas",
+                "Saludos",
+                "Que tal?",
+                "Buen día",
+                "Buenas tardes"
+            ],
+            "responses": [
+                "Hola!",
+                "Qué tal?",
+                "Buenos días, en que puedo ayudarte?",
+                "Hola, aquí HelpBot!",
+                "Hola, en que puedo ayudarte?"
+            ]
+        },
+        {
+            "tag": "preguntas",
+            "patterns": [
+                "Cuando comienzan las clases?",
+                "Cuando me inscribo?",
+                "Como me inscribo?",
+                "Como accedo al portal?",
+                "Cuando debo pagar el cursado?",
+                "Cuanto cuesta?"
+            ],
+            "responses": [
+                "Podrás acceder a toda la información del cursado en el siguiente link: hhtps://example.com/example",
+                "Para saber más sobre el periodo de inscripción, cursado, aranceles y más, ingresá al siguiente link: hhtps://example.com/example",
+                "Podrás obtener más información ingresando aquí: hhtps://example.com/example",
+                "Encontrá toda la información importante ingresando aquí: hhtps://example.com/example",
+                "Para conocer más sobre el cursado, inscripciones y más, ingresá en hhtps://example.com/example"
+            ]
+        }
+    ]
+}
