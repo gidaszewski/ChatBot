@@ -9,14 +9,15 @@
                 "Qué tal?",
                 "Buen día",
                 "Buenas tardes",
-                "Buenas noches"
+                "Buenas noches",
+                "Holaa"
             ],
             "responses": [
                 "Hola! ¿En que puedo ayudarte?"
             ]
         },
         {
-            "tag": "pasos para la visa",
+            "tag": "pasos para obtener la visa",
             "patterns": [
                 "Pasos para conseguir la visa",
                 "Conseguir la visa",
@@ -33,14 +34,18 @@
                 "Qué tengo que hacer para tener la visa working holiday?",
                 "Que hay que hacer para obtener la visa working holiday?",
                 "Como consigo mi visa?",
-                "Como consigo mi visa working holiday?"
+                "Como consigo mi visa working holiday?",
+                "conseguir visa",
+                "conseguir visado",
+                "conseguir visa wh",
+                "conseguir visa working holiday"
             ],
             "responses": [
-                "Para obtener la Visa Working Holiday Alemania deberás seguir los siguientes pasos: \n1. Solicitar turno \n2. Completar los formularios \n3. Fotografías \n4. Presentar documentos personales \n5. Demostración de fondos \n6. Reserva de alojamiento o Carta de Invitación \n7. Pasajes de avión \n8. Seguro médico (Seguro de Viaje) \n9. Certificado de antecedentes penales \n10. Curriculum Vitae \n(Esta información es parte de la página web YoMeAnimo, podrás encontrarla en el siguiente enlace: https://www.yomeanimo.com/conseguir-la-working-holiday-alemania-desde-exterior)"
+                "Para obtener la Visa Working Holiday Alemania en la Embajada de Alemania en Buenos Aires, deberás seguir los siguientes pasos: \n1. Solicitar turno \n2. Completar los formularios \n3. Fotografías \n4. Presentar documentos personales \n5. Demostración de fondos \n6. Reserva de alojamiento o Carta de Invitación \n7. Pasajes de avión \n8. Seguro médico (Seguro de Viaje) \n9. Certificado de antecedentes penales \n10. Curriculum Vitae \n(Esta información es parte de la página web YoMeAnimo, \npodrás encontrarla en el siguiente enlace: https://www.yomeanimo.com/conseguir-la-working-holiday-alemania-desde-exterior)"
             ]
         },
         {
-            "tag": "requisitos para la visa",
+            "tag": "requisitos para obtener la visa",
             "patterns": [
                 "¿Cuales son los requisitos para conseguir la visa?",
                 "¿Cuales son los requisitos para la visa?",
@@ -49,14 +54,18 @@
                 "requisitos para obtener la visa",
                 "requerimientos para la visa",
                 "Que requisitos te piden para la visa?",
-                "Cuales son los requisitos?"
+                "Cuales son los requisitos?",
+                "requisitos visa",
+                "requisitos de la visa wh",
+                "requisitos de la visa working holiday",
+                "requisitos para la visa"
             ],
             "responses": [
-                "Los requisitos para obtener la Visa Working Holiday Alemania son los siguientes: \n-Pasaporte argentino, chileno o uruguayo. \n-Tener entre 18 y 30 años. \n-Comprobante de financiamiento para gastos de manutención. \n-Pasaje de avión hacia Alemania comprado (no reserva, debe ser compra confirmada). \n-Pasaje de avión de regreso al país de origen o fondos suficientes para adquirirlo. \n-Seguro médico y de accidente. \n-Certificado de antecedentes penales (solo para argentinos). \n-Carta de Motivación. \n-Reserva de Alojamiento, Carta de invitación o demostrar la cobertura de los gastos de alojamiento. \n-Currículum Vitae. \n(Esta información es parte de la página web YoMeAnimo, podrás encontrarla en el siguiente enlace: https://www.yomeanimo.com/working-holiday-alemania-todo-lo-que-hay-que-saber#requisitos)"
+                "Los requisitos para obtener la Visa Working Holiday Alemania en la Embajada de Alemania en Buenos Aires, son los siguientes: \n-Pasaporte argentino, chileno o uruguayo. \n-Tener entre 18 y 30 años. \n-Comprobante de financiamiento para gastos de manutención. \n-Pasaje de avión hacia Alemania comprado (no reserva, debe ser compra confirmada). \n-Pasaje de avión de regreso al país de origen o fondos suficientes para adquirirlo. \n-Seguro médico y de accidente. \n-Certificado de antecedentes penales (solo para argentinos). \n-Carta de Motivación. \n-Reserva de Alojamiento, Carta de invitación o demostrar la cobertura de los gastos de alojamiento. \n-Currículum Vitae. \nEsta información es parte de la página web YoMeAnimo, podrás encontrarla en el siguiente enlace: https://www.yomeanimo.com/working-holiday-alemania-todo-lo-que-hay-que-saber#requisitos"
             ]
         },
         {
-            "tag": "conseguir turno en Buenos Aires",
+            "tag": "conseguir turno",
             "patterns": [
                 "¿Cómo conseguir turno en Buenos Aires?",
                 "Cómo conseguir turno en la embajada Buenos Aires?",
@@ -68,10 +77,183 @@
                 "Qué tengo que hacer para tener turno en Buenos Aires?",
                 "Que hay que hacer para obtener turno",
                 "Como consigo turno?",
-                "Como consigo turno"
+                "como conseguir turno?",
+                "Como consigo turno",
+                "tips para poder encontrar turnos",
+                "consejos para conseguir turno",
+                "tips para conseguir cita",
+                "consejos para conseguir turnos en la embajada de Buenos Aires",
+                "tips para conseguir turno en la embajada"
             ],
             "responses": [
-                "Para conseguir un turno deberás dirigirte al sitio web de citas de la Embajada de Buenos Aires: https://service2.diplo.de/rktermin/extern/choose_category.do?locationCode=buen&realmId=541&categoryId=1562. \nTips para conseguir un turno: \nHorario de liberación de turnos: Debes tener en cuenta que los turnos se habilitan, excepto jueves y sábados, el resto de los días de la semana a las a las 00h de Alemania (19 o 20h de Argentina según la época del año) pueden conseguirse turnos. Te recomiendo utilizar la página web www.Time.is para ver el hora exacta en Alemania. \nUtilizar un Autocompletador: Te permite rellenar formularios de manera automática, de esta manera puedes completar cada campo del proceso mucho más rápido. Las personas que han conseguido turno recomiendan utilizar Autofill, que es una extensión de Google Chrome que puedes instalar en tu navegador. \nTips para el Captcha: Al llegar al momento de completar el captcha, deberás elegir un código sencillo que se visualice bien y completarlo pero sin presionar en 'Guardar'. Una vez que completes el Captcha, deberás esperar al momento de aplicar y dos segundos antes de la hora, haz click en guardar para acceder a los turnos. Te recomiendo no presionar 'Guardar' antes ni después porque puedes perder la posibilidad de ingresar. Tampoco dejes el captcha cargado tanto tiempo porque puede que se actualice cuando intentes guardarlo. \nAlternativa: Si no has conseguido encontrar un turno en la Embajada de Buenos Aires, una alternativa es intentar conseguir la visa desde las Embajadas alemanas en el exterior, donde suele ser más fácil y rápido el proceso y la demanda no es tan alta como en Buenos Aires. \nEsta información es parte de la página web YoMeAnimo, podrás encontrarla en el siguiente enlace: https: //www.yomeanimo.com/como-sacar-turno-para-la-cita-en-la-embajada-de-buenos-aires)"
+                "Para conseguir un turno en la Embajada de Alemania en Buenos Aires, deberás dirigirte al sitio web de citas de la Embajada: https://service2.diplo.de/rktermin/extern/choose_category.do?locationCode=buen&realmId=541&categoryId=1562. \nTips para conseguir un turno: \nHorario de liberación de turnos: Debes tener en cuenta que los turnos se habilitan, excepto jueves y sábados, el resto de los días de la semana a las a las 00h de Alemania (19 o 20h de Argentina según la época del año) pueden conseguirse turnos. Te recomiendo utilizar la página web www.Time.is para ver el hora exacta en Alemania. \nUtilizar un Autocompletador: Te permite rellenar formularios de manera automática, de esta manera puedes completar cada campo del proceso mucho más rápido. Las personas que han conseguido turno recomiendan utilizar Autofill, que es una extensión de Google Chrome que puedes instalar en tu navegador. \nTips para el Captcha: Al llegar al momento de completar el captcha, deberás elegir un código sencillo que se visualice bien y completarlo pero sin presionar en 'Guardar'. Una vez que completes el Captcha, deberás esperar al momento de aplicar y dos segundos antes de la hora, haz click en guardar para acceder a los turnos. Te recomiendo no presionar 'Guardar' antes ni después porque puedes perder la posibilidad de ingresar. Tampoco dejes el captcha cargado tanto tiempo porque puede que se actualice cuando intentes guardarlo. \nAlternativa: Si no has conseguido encontrar un turno en la Embajada de Buenos Aires, una alternativa es intentar conseguir la visa desde las Embajadas alemanas en el exterior, donde suele ser más fácil y rápido el proceso y la demanda no es tan alta como en Buenos Aires. \nEsta información es parte de la página web YoMeAnimo, podrás encontrarla en el siguiente enlace: https: //www.yomeanimo.com/como-sacar-turno-para-la-cita-en-la-embajada-de-buenos-aires"
+            ]
+        },
+        {
+            "tag": "costo de la visa",
+            "patterns": [
+                "Cuanto cuesta la visa?",
+                "Cual es el valor de la visa?",
+                "El valor de la visa",
+                "Costo de la visa",
+                "Cuanto vale la visa",
+                "cuanto cuesta el tramite",
+                "Cual es el costo del tramite",
+                "cual es el costo de la visa WH",
+                "cuanto cuesta la working holiday?",
+                "Cual es el precio de la visa working holiday?",
+                "Cuanto cuesta la visa WH?",
+                "Cuanto sale la visa?",
+                "cuanto sale",
+                "cuanto cuesta",
+                "valor de la visa"
+            ],
+            "responses": [
+                "El valor del tramite para obtener la Visa Working Holiday Alemania en la Embajada de Alemania en Buenos Aires es de EUR 75 (Aprox. $71.000 ARS - 23/03/2024). Ten en cuenta que deberás abonar el tramite, muy importante, en efectivo el día de tu cita en la Embajada. \nSe abona en pesos argentinos y se realiza la conversión al valor oficial del Euro del corriente día. \nEsta respuesta fue construida utilizando información real de personas que aplicaron a la visa, además contiene información que es parte de la página web de la Embajada de Alemania en Buenos Aires. \nPodrás encontrar más info detallada en: https://buenos-aires.diplo.de/ar-es/service/visa-einreise/working-holiday/2158284."
+            ]
+        },
+        {
+            "tag": "demostracion - tipo de moneda aceptada",
+            "patterns": [
+                "¿Puedo presentar los fondos en pesos?",
+                "Puedo demostrar los fondos en pesos argentinos?",
+                "En que moneda debo demostrar los fondos?",
+                "Puedo presentar en pesos la demostración de fondos?",
+                "Es posible demostrar en pesos?",
+                "Demostrar en pesos argentinos",
+                "Puedo demostrar los fondos en pesos",
+                "Puedo demostrar fondos en pesos argentinos?",
+                "puedo utilizar pesos argentinos para demostrar los fondos?",
+                "sirve una cuenta en pesos para demostrar los fondos?",
+                "tengo una cuenta en pesos, puedo usarla para demostrar los fondos?",
+                "puedo demostrar los fondos con mi cuenta en pesos argentinos?"
+            ],
+            "responses": [
+                "Según la página oficial de la Embajada de Alemania en Buenos Aires, la demostración de los fondos se debe realizar en Divisas (Dolar Americano USD). \nEsta respuesta fue construida utilizando información real de personas que aplicaron a la visa, además contiene información que es parte de la página web de la Embajada de Alemania en Buenos Aires. \nPodrás encontrar más info detallada en: https://buenos-aires.diplo.de/ar-es/service/visa-einreise/working-holiday/2158284."
+            ]
+        },
+        {
+            "tag": "demostracion - cuanto dinero",
+            "patterns": [
+                "Cuanto dinero hay que demostrar?",
+                "Cuanta plata hay que demostrar?",
+                "cuanta plata debo tener?",
+                "Cuanto dinero hay que tener para aplicar?",
+                "Cuanto dinero hay que tener para aplicar a la visa?",
+                "cuanto es el dinero que hay que tener para la visa?",
+                "Cuanta plata hay que tener para aplicar?",
+                "cuanto dinero hay que tener para aplicar a la visa?",
+                "cuanto dinero hay que demostrar para la visa?",
+                "Cuanta plata hay que demostrar para el visado?",
+                "Cuanto dinero te solicitan para la visa?",
+                "Cuantos dolares se necesitan para aplicar a la visa?",
+                "Cuantos euros se necesitan para aplicar a la visa?",
+                "Cuantos euros me piden?",
+                "cuantos dolares piden?",
+                "cuanta plata tengo que ahorrar",
+                "cuanto dinero hay que ahorrar"
+            ],
+            "responses": [
+                "Primero debes tener en cuenta que hay varios casos, en algunos debes presentar más dinero y, en otros casos, menos. \nPara aplicar a la Visa Working Holiday en la Embajada de Alemania en Buenos Aires, deberás presentar como comprobantes del financiamiento de gastos de manutención: 400€ mensuales para los primeros tres meses, es decir, un total de 1.200€. \nA continuación, detallo los posibles casos para que puedas identificar si debes presentar 1200 € o más según tu caso: \nCaso 1) Cuentas con una carta de invitación de una persona residente en Alemania y con una reserva de avión Alemania-Argentina para tu regreso: En caso de que cuentes con una carta de invitación y una reserva de avión para tu regreso luego de finalizar tu estadía en Alemania, no deberás presentar más dinero. Es decir, con 1.200€ podrás aplicar a la visa. \nCaso 2) Cuentas con una carta de invitación de una persona residente en Alemania pero no tienes una reserva de avión para tu regreso a Argentina: En este caso deberás sumar 1000€ más a tu cuenta, ya que, deberás demostrar que tienes el dinero para comprar un vuelo para tu regreso al país. Es decir, deberás tener en total 2.200€ para aplicar a la visa. \nCaso 3) Cuentas con una reserva de Hotel/Hostel/etc en Alemanía y una reserva de avión Alemania-Argentina para tu regreso: En este caso, el monto a sumar dependerá del costo de la reserva (Reserva del Hotel, Hostel, etc). Deberás realizar el siguiente cálculo matemático: (Valor total de la reserva / 90) x 90. Supongamos que la reserva te costó 261,90€, entonces (261,90€ / 90) = (37,41€ x 90) = 3.367 €. Es decir, deberás tener en total 4.567€ (manutención 1.200€ + hospedaje 3.367€) para aplicar a la visa. \nCaso 4) Cuentas con una reserva de Hotel/Hostel/etc en Alemanía pero no cuentas con una reserva de avión Alemania-Argentina para tu regreso: Aquí deberás calcular el valor total de tu hospedaje como lo hicimos en el Caso 3, y luego deberás sumarle 1.200€ (manutención) + 1.000€ (pasaje de regreso). Es decir, deberás tener en total 5.567€ (manutención 1.200€ + hospedaje 3.367€ + 1.000€ pasaje de regreso) para aplicar a la visa. \nImportante a tener en cuenta: En cualquiera de los casos, debes prestar atención al calcular! Ha habido casos en los que, por hacer mal el cálculo, la Embajada rechaza la visa. \nOtro punto importante: ten en cuenta que la Embajada de Alemania en Buenos Aires solo acepta que la demostración de fondos sea en Dolares Americanos (USD) o en su defecto en Euros, no es posible presentar Pesos Argentinos, ni tampoco otra moneda diferentes a las mencionadas. \nEsta respuesta fue construida utilizando información real de personas que aplicaron a la visa, además contiene información que es parte de la página web de la Embajada de Alemania en Buenos Aires. \nPodrás encontrar más info detallada en: https://buenos-aires.diplo.de/ar-es/service/visa-einreise/working-holiday/2158284."
+            ]
+        },
+        {
+            "tag": "demostracion - antiguedad del dinero",
+            "patterns": [
+                "Los fondos deben tener antiguedad de 3 meses?",
+                "Los fondos deben tener 3 meses de antiguedad?",
+                "Para la demostracion de fondos, el dinero tiene que tener 3 meses de antiguedad?",
+                "el dinero tiene que tener 3 meses de antiguedad en la cuenta?",
+                "El dinero tambien tiene que tener 3 meses de antiguedad?",
+                "La plata tiene que tener 3 meses de antiguedad en la cuenta?",
+                "Para la demostracion, la plata tambien tiene que tener 3 meses de antiguedad?",
+                "Para la demostracion, el dinero tambien tiene que tener 3 meses de antiguedad?",
+                "Los fondos deben tener 3 meses de antiguedad para la demostración?",
+                "Los fondos tienen que tener 3 meses de antiguedad?",
+                "antiguedad dinero",
+                "la antiguedad del dinero en la cuenta"
+            ],
+            "responses": [
+                "Según experiencias de personas que aplicaron a la Visa WH Alemania en la Embajada de Alemania en Buenos Aires, desde la Embajada no solicitan que el dinero tenga 3 meses de antiguedad en la cuenta. \nPor otro lado, es importante tener en cuenta que la cuenta sí debe tener hasta 3 meses de antiguedad como mínimo, es un requisito que, de no cumplirse, pueden rechazarte la visa. \nAdemás, esto solo aplica para la Embajada de Alemania en Buenos Aires, ya que, según experiencias de personas que aplicaron en otras embajadas, han solicitado que el dinero tenga 3 meses de antiguedad en la cuenta. \nEsta respuesta fue construida utilizando información real de personas que aplicaron a la visa, además contiene información que es parte de la página web de YoMeAnimo. \nPodrás encontrar más info detallada en: https: //www.yomeanimo.com/demostrar-dinero-la-working-holiday-alemania."
+            ]
+        },
+        {
+            "tag": "demostracion - antiguedad de la cuenta",
+            "patterns": [
+                "La cuenta debe tener antiguedad de 3 meses?",
+                "La cuenta debe tener 3 meses de antiguedad?",
+                "Para la demostracion de fondos, la cuenta tiene que tener 3 meses de antiguedad?",
+                "la cuenta tiene que tener 3 meses de antiguedad?",
+                "la cuenta debe tener 3 meses?",
+                "Para la demostracion, la cuenta debe que tener 3 meses de antiguedad?",
+                "Para la demostracion de fondos, la cuenta tiene que tener 3 meses de antiguedad?",
+                "La cuenta debe tener 3 meses de antiguedad para la demostración?",
+                "La cuenta tienen que tener 3 meses de antiguedad para demostrar los fondos?",
+                "antiguedad de la cuenta",
+                "antiguedad de la cuenta bancaria",
+                "cuantos meses debe tener la cuenta bancaria",
+                "antiguedad de mi cuenta bancaria",
+                "antiguedad caja de ahorro en dolares",
+                "antiguedad de mi caja"
+            ],
+            "responses": [
+                "La cuenta bancaria para demostrar los fondos para aplicar a la Visa WH Alemania en la Embajada de Alemania en Buenos Aires, debe tener, como mínimo, 3 meses de antiguedad. \nEs un requisito excluyente, de no contar con 3 meses de antiguedad, la Embajada rechazará tu visa. \nLa embajada toma en cuenta la antiguedad de la cuenta principal, por lo que, si tu caja de ahorro en dolares no cuenta con 3 meses de antiguedad, no te preocupes! \nEsta respuesta fue construida utilizando información real de personas que aplicaron a la visa, además contiene información que es parte de la página web de YoMeAnimo. \nPodrás encontrar más info detallada en: https: //www.yomeanimo.com/demostrar-dinero-la-working-holiday-alemania."
+            ]
+        },
+        {
+            "tag": "demostracion - utilizar wise",
+            "patterns": [
+                "Es posible demostrar los fondos utilizando Wise?",
+                "Se puede usar wise para demostrar los fondos?",
+                "Puedo utilizar wise para demostrar los fondos?",
+                "Aceptan Wise para los fondos?",
+                "Puedo usar Wise para demostrar los fondos?",
+                "Se puede usar wise para la demostración de fondos?",
+                "Puedo utilizar Wise para los fondos?",
+                "Los fondos puedo presentarlos con Wise?",
+                "Puedo demostrar los fondos usando wise?",
+                "Tengo Wise, puedo demostrar los fondos con esa app?",
+                "demostrar fondos con wise",
+                "demostrar los fondos con la app Wise"
+            ],
+            "responses": [
+                "Según experiencias de personas que aplicaron a la Visa WH Alemania en la Embajada de Alemania en Buenos Aires, está permitido demostrar los fondos utilizando la aplicación Wise."
+            ]
+        },
+        {
+            "tag": "tramite - cuando sacar la visa",
+            "patterns": [
+                "¿Cuándo debería sacar la visa en base a mi fecha estimada de viaje?",
+                "Cuando debo tramitar la visa?",
+                "Con cuanto tiempo de anticipación debo tramitar la visa?",
+                "Con cuanto tiempo de anticipacion debo pedir la visa",
+                "Cuanto tiempo antes de mi viaje debo tramitar la visa?",
+                "cuantos meses antes debo aplicar a la visa?",
+                "Con cuantos meses de anticipación debo aplicar a la visa?",
+                "Con cuantos meses de anticipacion debo tramitar mi visa?",
+                "cuantos meses antes debo pedir mi visa?",
+                "cuanto antes debo pedir mi visa?"
+            ],
+            "responses": [
+                "Para la Visa Working Holiday Alemania es necesario aplicar entre 6 meses y 15 días antes de su fecha de viaje. Esto significa que si viajas el 30/08, puedes aplicar entre el 30/02 como fecha mínima y hasta el 11/08 como fecha máxima. \nRecuerda que esta visa es de múltiple entrada. Esto significa que, mientras la visa Working Holiday este vigente, podrás salir y entrar a Alemania cuantas veces quieras. \nEsta respuesta fue construida utilizando información que es parte de la página web de YoMeAnimo. \nPodrás encontrar más info detallada en: https://www.yomeanimo.com/acuerdo-working-holiday-alemania-argentinos#fecha"
+            ]
+        },
+        {
+            "tag": "tramite - cuanto demora",
+            "patterns": [
+                "¿Cuánto se demoran en aprobar la visa una vez que presentan todo?",
+                "Cuánto se demora la visa en ser aprobada?",
+                "Cuanto demoran en aprobar mi visa?",
+                "Cuanto tiempo demoran en aprobarla?",
+                "cuanto tiempo tarda en ser aprobada la visa?",
+                "tiempo de aprobación de la visa",
+                "cuanto tarda la visa en ser aprobada?",
+                "cuanto tiempo tardan en aprobar?",
+                "cuanto tardan en aprobarme la visa?",
+                "Cuanto tiempo demorar en aproba mi visa?"
+            ],
+            "responses": [
+                "Según experiencias de personas que aplicaron a la Visa WH Alemania en la Embajada de Alemania en Buenos Aires, más o menos se demoran entre 6 y 10 días en dar una respuesta de la visa. A algunos incluso en tres días les han otorgado la visa. \nEsta respuesta fue construida utilizando información que es parte de la página web de YoMeAnimo. \nPodrás encontrar más info detallada en: https://www.yomeanimo.com/acuerdo-working-holiday-alemania-argentinos#demoran"
             ]
         }
     ]
