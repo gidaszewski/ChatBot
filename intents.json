@@ -5,35 +5,73 @@
             "patterns": [
                 "Hola",
                 "Buenas",
-                "Saludos",
                 "Que tal?",
+                "Qué tal?",
                 "Buen día",
-                "Buenas tardes"
+                "Buenas tardes",
+                "Buenas noches"
             ],
             "responses": [
-                "Hola!",
-                "Qué tal?",
-                "Buenos días, en que puedo ayudarte?",
-                "Hola, aquí HelpBot!",
-                "Hola, en que puedo ayudarte?"
+                "Hola! ¿En que puedo ayudarte?"
             ]
         },
         {
-            "tag": "preguntas",
+            "tag": "pasos para la visa",
             "patterns": [
-                "Cuando comienzan las clases?",
-                "Cuando me inscribo?",
-                "Como me inscribo?",
-                "Como accedo al portal?",
-                "Cuando debo pagar el cursado?",
-                "Cuanto cuesta?"
+                "Pasos para conseguir la visa",
+                "Conseguir la visa",
+                "Pasos para la visa",
+                "¿Cómo conseguir la visa?",
+                "Cómo conseguir la visa?",
+                "Como conseguir la visa?",
+                "Como conseguir la visa WH?",
+                "Como consigo la visa?",
+                "Cómo obtengo la visa?",
+                "Como tramito mi visa working holiday",
+                "Cómo obtengo mi visa working holiday",
+                "Qué debo hacer para obtener mi visa working holiday?",
+                "Qué tengo que hacer para tener la visa working holiday?",
+                "Que hay que hacer para obtener la visa working holiday?",
+                "Como consigo mi visa?",
+                "Como consigo mi visa working holiday?"
             ],
             "responses": [
-                "Podrás acceder a toda la información del cursado en el siguiente link: hhtps://example.com/example",
-                "Para saber más sobre el periodo de inscripción, cursado, aranceles y más, ingresá al siguiente link: hhtps://example.com/example",
-                "Podrás obtener más información ingresando aquí: hhtps://example.com/example",
-                "Encontrá toda la información importante ingresando aquí: hhtps://example.com/example",
-                "Para conocer más sobre el cursado, inscripciones y más, ingresá en hhtps://example.com/example"
+                "Para obtener la Visa Working Holiday Alemania deberás seguir los siguientes pasos: \n1. Solicitar turno \n2. Completar los formularios \n3. Fotografías \n4. Presentar documentos personales \n5. Demostración de fondos \n6. Reserva de alojamiento o Carta de Invitación \n7. Pasajes de avión \n8. Seguro médico (Seguro de Viaje) \n9. Certificado de antecedentes penales \n10. Curriculum Vitae \n(Esta información es parte de la página web YoMeAnimo, podrás encontrarla en el siguiente enlace: https://www.yomeanimo.com/conseguir-la-working-holiday-alemania-desde-exterior)"
+            ]
+        },
+        {
+            "tag": "requisitos para la visa",
+            "patterns": [
+                "¿Cuales son los requisitos para conseguir la visa?",
+                "¿Cuales son los requisitos para la visa?",
+                "Qué te solicitan para la visa?",
+                "Requisitos para la Visa",
+                "requisitos para obtener la visa",
+                "requerimientos para la visa",
+                "Que requisitos te piden para la visa?",
+                "Cuales son los requisitos?"
+            ],
+            "responses": [
+                "Los requisitos para obtener la Visa Working Holiday Alemania son los siguientes: \n-Pasaporte argentino, chileno o uruguayo. \n-Tener entre 18 y 30 años. \n-Comprobante de financiamiento para gastos de manutención. \n-Pasaje de avión hacia Alemania comprado (no reserva, debe ser compra confirmada). \n-Pasaje de avión de regreso al país de origen o fondos suficientes para adquirirlo. \n-Seguro médico y de accidente. \n-Certificado de antecedentes penales (solo para argentinos). \n-Carta de Motivación. \n-Reserva de Alojamiento, Carta de invitación o demostrar la cobertura de los gastos de alojamiento. \n-Currículum Vitae. \n(Esta información es parte de la página web YoMeAnimo, podrás encontrarla en el siguiente enlace: https://www.yomeanimo.com/working-holiday-alemania-todo-lo-que-hay-que-saber#requisitos)"
+            ]
+        },
+        {
+            "tag": "conseguir turno en Buenos Aires",
+            "patterns": [
+                "¿Cómo conseguir turno en Buenos Aires?",
+                "Cómo conseguir turno en la embajada Buenos Aires?",
+                "Como conseguir turno en Buenos Aires?",
+                "Como conseguir turno en la embajada Buenos Aires?",
+                "Como consigo turno en Buenos Aires?",
+                "Cómo obtengo turno en la Embajada Buenos Aires?",
+                "Qué debo hacer para obtener turno",
+                "Qué tengo que hacer para tener turno en Buenos Aires?",
+                "Que hay que hacer para obtener turno",
+                "Como consigo turno?",
+                "Como consigo turno"
+            ],
+            "responses": [
+                "Para conseguir un turno deberás dirigirte al sitio web de citas de la Embajada de Buenos Aires: https://service2.diplo.de/rktermin/extern/choose_category.do?locationCode=buen&realmId=541&categoryId=1562. \nTips para conseguir un turno: \nHorario de liberación de turnos: Debes tener en cuenta que los turnos se habilitan, excepto jueves y sábados, el resto de los días de la semana a las a las 00h de Alemania (19 o 20h de Argentina según la época del año) pueden conseguirse turnos. Te recomiendo utilizar la página web www.Time.is para ver el hora exacta en Alemania. \nUtilizar un Autocompletador: Te permite rellenar formularios de manera automática, de esta manera puedes completar cada campo del proceso mucho más rápido. Las personas que han conseguido turno recomiendan utilizar Autofill, que es una extensión de Google Chrome que puedes instalar en tu navegador. \nTips para el Captcha: Al llegar al momento de completar el captcha, deberás elegir un código sencillo que se visualice bien y completarlo pero sin presionar en 'Guardar'. Una vez que completes el Captcha, deberás esperar al momento de aplicar y dos segundos antes de la hora, haz click en guardar para acceder a los turnos. Te recomiendo no presionar 'Guardar' antes ni después porque puedes perder la posibilidad de ingresar. Tampoco dejes el captcha cargado tanto tiempo porque puede que se actualice cuando intentes guardarlo. \nAlternativa: Si no has conseguido encontrar un turno en la Embajada de Buenos Aires, una alternativa es intentar conseguir la visa desde las Embajadas alemanas en el exterior, donde suele ser más fácil y rápido el proceso y la demanda no es tan alta como en Buenos Aires. \nEsta información es parte de la página web YoMeAnimo, podrás encontrarla en el siguiente enlace: https: //www.yomeanimo.com/como-sacar-turno-para-la-cita-en-la-embajada-de-buenos-aires)"
             ]
         }
     ]
