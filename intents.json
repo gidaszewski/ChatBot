@@ -17,6 +17,27 @@
             ]
         },
         {
+            "tag": "modales",
+            "patterns": [
+                "Muchas gracias",
+                "Gracias!",
+                "Muchas gracias!",
+                "graciass",
+                "Genial, gracias!",
+                "Buenisimo, gracias",
+                "Perfecto gracias",
+                "Excelente",
+                "buenisimo",
+                "perfecto",
+                "ok",
+                "OK",
+                "bueno"
+            ],
+            "responses": [
+                "Me alegro que te haya sido útil la información! Estoy aquí para ayudarte, mucha suerte en tu experiencia por Alemania!"
+            ]
+        },
+        {
             "tag": "pasos para obtener la visa",
             "patterns": [
                 "Pasos para conseguir la visa",
