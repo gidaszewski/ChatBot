@@ -242,6 +242,22 @@
             ]
         },
         {
+            "tag": "demostracion - papeles",
+            "patterns": [
+                "Que papeles debo presentar para la demostracion de fondos?",
+                "que hay que presentar para la demostración?",
+                "como hay que presentar los documentos para la demostracion de fondos?",
+                "de que forma hay que presentar la demostracion de fondos?",
+                "como hay que presentar los fondos?",
+                "Que papel hay que llevar para la demostracion de fondos?",
+                "Que hay que presentar para demostrar los fondos?",
+                "Como hay que demostrar los fondos?"
+            ],
+            "responses": [
+                "Para la demostración de fondos en la Embajada de Alemania en Buenos Aires deberás llevar los siguientes documentos: \nConstancia de CBU: Es un certificado expedido por la entidad bancaria en donde se detallan los datos de la cuenta y los datos de quien le pertenece dicha cuenta. \nCaptura de pantalla de Home Banking: La captura de pantalla de tu Home Banking deberá contener el total de saldo que se registra en la cuenta actualmente. \nResumen de la cuenta de 3 meses atras: Puede ser cualquier resumen que tenga más de 3 meses de antiguedad. Se utiliza para comprobar que la cuenta tiene más de 3 meses de antiguedad. \nEsta respuesta fue construida utilizando información que es parte de la página web de YoMeAnimo. \nPodrás encontrar más info detallada en: https://www.yomeanimo.com/demostrar-dinero-la-working-holiday-alemania"
+            ]
+        },
+        {
             "tag": "tramite - cuando sacar la visa",
             "patterns": [
                 "¿Cuándo debería sacar la visa en base a mi fecha estimada de viaje?",
@@ -275,6 +291,22 @@
             ],
             "responses": [
                 "Según experiencias de personas que aplicaron a la Visa WH Alemania en la Embajada de Alemania en Buenos Aires, más o menos se demoran entre 6 y 10 días en dar una respuesta de la visa. A algunos incluso en tres días les han otorgado la visa. \nEsta respuesta fue construida utilizando información que es parte de la página web de YoMeAnimo. \nPodrás encontrar más info detallada en: https://www.yomeanimo.com/acuerdo-working-holiday-alemania-argentinos#demoran"
+            ]
+        },
+        {
+            "tag": "duda - extender visa",
+            "patterns": [
+                "Es posible extender la visa?",
+                "Pasado el tiempo de la visa, es posible extenderla?",
+                "Se puede extender la visa?",
+                "Se puede extender la visa working holiday?",
+                "Es posible extender la visa working holiday?",
+                "Se puede estar más de 12 meses con la visa?",
+                "Se puede extender más de 12 meses la visa?",
+                "Es posible extender la visa más de 12 meses?"
+            ],
+            "responses": [
+                "Según la información subida al sitio web oficial de la Embajada de Alemania en Buenos Aires, la estadía completa no puede exceder los 12 meses. Dentro de este período y del marco del programa se permiten múltiples ingresos a Alemania. \nPodrás encontrar más info detallada en: https://buenos-aires.diplo.de/ar-es/service/visa-einreise/working-holiday/2158284."
             ]
         }
     ]
