@@ -3,11 +3,8 @@ import json
 import pickle
 import numpy as np
 import tensorflow as tf
-
 import nltk
 from nltk.stem import WordNetLemmatizer
-
-# Librerias para crear la red neuronal
 from keras.models import Sequential
 from keras.layers import Dense, Activation, Dropout
 from keras.optimizers import SGD
@@ -40,7 +37,7 @@ words = sorted(set(words))
 pickle.dump(words, open("words.pkl", "wb"))
 pickle.dump(classes, open("classes.pkl", "wb"))
 
-# Transformación de la información a unos y ceros según las palabras presentes en cada categoría para entrenar la Red
+# Transformación de la información a unos y ceros según las palabras presentes en cada categoría para el training
 training = []
 output_empty = [0] * len(classes)
 for document in documents:
